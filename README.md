@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Humorousrock
-- 👀 I’m interested in Web Development 
+- 👀 I’m interested in Web Development ,data strucutre and algo.
 - 🌱 I’m currently learning Full stack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...through my instagram @aman_rana406
